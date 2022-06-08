@@ -8,5 +8,6 @@ button.addEventListener('click', e =>
 {
     const colorIndex= parseInt(Math.random()*colors.length)
     body.style.backgroundColor = colors[colorIndex]
+    buttons.style.backgroundColor = colors[colorIndex]
 })
 

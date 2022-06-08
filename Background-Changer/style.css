@@ -1,0 +1,14 @@
+#bg{
+    
+    justify-content: center;
+    align-content: center;
+    border-radius: 50px;
+    margin:230px 330px 110px;
+    position: relative;
+    height: 50px;
+    width: 250px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 3px #fffdfd;
+    color: rgb(255, 255, 255);
+}
